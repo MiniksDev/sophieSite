@@ -1,0 +1,81 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("https://cdn.glitch.com/2e31b436-3edb-49d2-a82d-d0d9586f40a6%2Ffundosophie2.png?v=1601428709585");
+    animation: normal;
+
+    font-family: 'Roboto', sans-serif;
+}
+
+#iour {
+    width:300px;
+    height: 150px;
+    padding: 40px 40px;
+}
+
+#iour .para {
+  font-family: 'Roboto', sans-serif;
+}
+
+#termis  {
+
+    align-content: center;
+}
+
+#termis .sophie {
+    float: left;
+    margin: 0 100px 100px 0;
+}
+
+#termis .briw1 {
+    display: center;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #ffe4c4;
+    border: none;
+    border-radius: 15px;
+
+}
+
+
+#termis .briw1:hover {
+    background-color: #eedfcc;
+}
+
+#termis .briw2 {
+    display: center;
+    padding: 15px 25px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: black;
+    background-color: #ffe4c4;
+    border: none;
+    border-radius: 15px;
+
+}
+
+#termis .briw1:hover {
+    background-color: #eedfcc;
+}
+
+#termis .briw1class {
+    padding-left: 90%;
+}
+
+#termis .imagem {
+    padding-top: 30px;
+    width: 25%;
+    height: auto;
+        float: center;
+}
